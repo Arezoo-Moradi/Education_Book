@@ -1,6 +1,6 @@
 # Book
-user Registration
-static Assets
+User Registration and static Assets
 
 ##
 pip install -r requirment.txt
+pip install Django
