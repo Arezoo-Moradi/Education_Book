@@ -1,4 +1,4 @@
-# Book
+# Education Book
 User Registration and static Assets
 
 ##
